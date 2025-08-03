@@ -1,9 +1,9 @@
-package com.github.numbersir.sugarcube2languagesupportplugin.services
+package com.github.numbersir.sc2.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.numbersir.sugarcube2languagesupportplugin.MyBundle
+import com.github.numbersir.sc2.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

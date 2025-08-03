@@ -1,4 +1,4 @@
-package com.github.numbersir.sugarcube2languagesupportplugin.startup
+package com.github.numbersir.sc2.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project

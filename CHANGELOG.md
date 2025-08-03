@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# sugarcube-2-language-support-plugin Changelog
+# sugarcube-2-support-plugin Changelog
 
 ## [Unreleased]
 ### Added

@@ -1,4 +1,4 @@
-package com.github.numbersir.sugarcube2languagesupportplugin.toolWindow
+package com.github.numbersir.sc2.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.numbersir.sugarcube2languagesupportplugin.MyBundle
-import com.github.numbersir.sugarcube2languagesupportplugin.services.MyProjectService
+import com.github.numbersir.sc2.MyBundle
+import com.github.numbersir.sc2.services.MyProjectService
 import javax.swing.JButton
 
 
